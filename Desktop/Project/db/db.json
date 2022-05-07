@@ -1,0 +1,64 @@
+{
+  "Restro_Name": [
+    {
+      "name": "Om's Cafe",
+      "email": "omcafe77@gmail.com",
+      "address": "mumbai it park dist mumbai",
+      "id": 1
+    },
+    {
+      "name": "MacDonald's",
+      "email": "MacDonald111@gmail.com",
+      "address": "bandra  mumbai 425001",
+      "id": 2
+    },
+    {
+      "name": "MH-19  Cafe",
+      "email": "cafekattibatti177@gmail.com",
+      "address": "near mj college square jalgaon",
+      "id": 3
+    },
+    {
+      "name": "Amar Ragada",
+      "email": "omcafe77@gmail.com",
+      "address": "golani market jalgaon",
+      "id": 4
+    },
+    {
+      "name": "burgerking",
+      "email": "BURGERKING123@GMAIL.COM",
+      "address": "chakan pune",
+      "id": 5
+    },
+    {
+      "name": "Rupesh Misal",
+      "email": "rupeshmisal123.com",
+      "address": "At Nashik ",
+      "id": 6
+    },
+    {
+      "name": "hotel krishna",
+      "email": "hotelkrishna99@info.com",
+      "address": "national highway 7 padmalay nagar erandol 425109",
+      "id": 7
+    },
+    {
+      "name": "Starbucks ",
+      "email": "starbucks.info.in",
+      "address": "near willson college  mumbai 425001",
+      "id": 8
+    },
+    {
+      "name": "Puneri Amrutulya",
+      "email": "amrutulya@puneri.com",
+      "address": "pune",
+      "id": 9
+    },
+    {
+      "name": "GUJRAT SWEETS",
+      "email": "gujaratsweets@gmail.com",
+      "address": "near chitra chowk jalgaon",
+      "id": 10
+    }
+  ]
+}
