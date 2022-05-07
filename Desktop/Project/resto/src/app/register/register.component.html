@@ -1,0 +1,16 @@
+<h2>register works!</h2>
+<form [formGroup]="register" (ngSubmit)="registeruser()">
+    <div class="mb-3">
+      <label for="exampleInputEmail1" class="form-label">Restaurant's Name</label>
+      <input type="text" class="form-control" formControlName="name" placeholder="enter name here">
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Email</label>
+        <input type="email" class="form-control" formControlName="email" placeholder="enter email here">
+      </div>
+      <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Password</label>
+        <input type="password" class="form-control" formControlName="password" placeholder="enter password">
+      </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
